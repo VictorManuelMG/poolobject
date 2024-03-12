@@ -51,7 +51,7 @@ jobs:
             # mandatory
             -Dsonar.projectKey=VictorManuelMG_poolobject
             -Dsonar.organization=victormanuelmg
-            -Dsonar.sources= ./src 
+            -Dsonar.sources=./src 
             
             # Comma-separated paths to directories containing main source files.
             # When you need the analysis to take place in a directory other than the one from which it was launched
